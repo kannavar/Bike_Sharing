@@ -32,9 +32,11 @@ We are using the shared bikes booking data for years 2018 and 2019.
 
 The top 3  factors that influence the Shared bikes demand are 
 
-temp - Every unit increase in temperature will increase the demand for shared bikes by 3875 times 
-year  - Every year the demand for shared bikes is growing by 1979 times 
-Weathersit_LightRain - The demand for shared bikes decreases by 2034 times in case of a light rainfall
+- temp - Every unit increase in temperature will increase the demand for shared bikes by 3875 times 
+
+- year  - Every year the demand for shared bikes is growing by 1979 times 
+
+- Weathersit_LightRain - The demand for shared bikes decreases by 2034 times in case of a light rainfall
 
 BoomBikes team can factor in the above variables when predicting the demand for the shared bikes.
 
