@@ -29,30 +29,29 @@ We are using the shared bikes booking data for years 2018 and 2019.
  
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+The top 3  factors that influence the Shared bikes demand are 
+
+temp - Every unit increase in temperature will increase the demand for shared bikes by 3875 times 
+year  - Every year the demand for shared bikes is growing by 1979 times 
+Weathersit_LightRain - The demand for shared bikes decreases by 2034 times in case of a light rainfall
+
+BoomBikes team can factor in the above variables when predicting the demand for the shared bikes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas 
+- Seaborn 
+- Matplotlib
+- SciKitLearn 
+- StatModel 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kannavar] - feel free to contact me!
 
 
 <!-- Optional -->
